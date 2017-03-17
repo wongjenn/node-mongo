@@ -1,0 +1,27 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wongjenn/node-mongo.git"
+  },
+  "author": "Jennifer Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wongjenn/node-mongo/issues"
+  },
+  "homepage": "https://github.com/wongjenn/node-mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "http-server": "^0.9.0",
+    "nodemon": "^1.11.0"
+  }
+}
