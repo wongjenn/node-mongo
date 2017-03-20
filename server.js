@@ -6,6 +6,7 @@ const bodyParser = require('body-parser'); // req.body
 const cors = require('cors');
 let contacts = require('./data');
 
+app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
 
