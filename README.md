@@ -5,4 +5,4 @@
 <li> to run backend, in terminal: "npm start" </li>
 <li> to run basic frontend </li>
 
-- click [here](https://wongjenn.github.io/node-mongo/)
+- click [here](https://wongjenn.github.io/node-mongo/index.html)
